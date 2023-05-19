@@ -10,4 +10,4 @@ Here are the recommended steps for utilizing the Scraper:
 
 3) Parsing HTMLs: Once the HTML content is obtained, the script will parse the downloaded files to extract the desired information. This involves using appropriate parsing techniques, such as leveraging libraries like BeautifulSoup or Scrapy in Python, to navigate the HTML structure and extract relevant data elements, such as titles, authors, abstracts, or full-text content. By parsing the HTMLs, the script enables further analysis and manipulation of the scraped scientific materials.
 
-By following these steps, the Scraper can effectively retrieve and process scientific and educational materials from eLibrary.ru, overcoming the challenges posed by bugs and security complications. The utilization of ZenRows' ScraperBee enhances the scraping capabilities by incorporating proxy rotation, JavaScript rendering, and geo targeting functionalities into the scraping workflow.
+
