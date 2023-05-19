@@ -5,9 +5,9 @@ import threading
 import os 
 from collections import defaultdict
 import json
-API_KEY = 'nVY6dA3cQFQd3mz03kCs5ej5VzWGwDMx'
-API_KEY_BEE='OK6IEAIB37DJA0CNZ32QH8IJNVVIYIM6LJ6FJ4FH29WPAWI5LSFFPGP7HOMIBY7095XI9A6S6S1DZ6Y1'
-proxy = "http://81abb4323f1459891e2f73a6b26600cd444f76cb:@proxy.zenrows.com:8001"
+API_KEY = 'your key'
+API_KEY_BEE='your key'
+proxy = "http://your key:@proxy.zenrows.com:8001"
 proxies = {"http": proxy, "https": proxy}
 apis = [
 '1K327CJ3IKHDQGBY8WQYKCIEUIGDEE7DCMA7M61D1XKKFHS7WP6WFZX0LW6U1Z3C3THN9D4NNEOC1XID',
